@@ -25,3 +25,4 @@ class TestBooksCollector:
 
     print('new commit')
     print('bla bla')
+    print('kek')
