@@ -24,3 +24,4 @@ class TestBooksCollector:
     # чтобы тесты были независимыми в каждом из них создавай отдельный экземпляр класса BooksCollector()
 
     print('new commit')
+    print('bla bla')
